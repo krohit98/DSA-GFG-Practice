@@ -1,9 +1,9 @@
-Link: https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
+// Link: https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1
 
-Problem Statement: 
-Your task is to implement  2 stacks in one array efficiently.
+// Problem Statement: 
+// Your task is to implement  2 stacks in one array efficiently.
 
-Solution:
+// Solution:
 
 int i=0,j=1;
 //Function to push an integer into the stack1.

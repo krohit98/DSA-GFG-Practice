@@ -1,9 +1,11 @@
-Link: https://practice.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1
+// Link: https://practice.geeksforgeeks.org/problems/find-equal-point-in-string-of-brackets2542/1
 
-Problem Statement: 
-Given a string S of opening and closing brackets '(' and ')' only. The task is to find an equal point. An equal point is an index such that the number of closing brackets on right from that point must be equal to number of opening brackets before that point.
+// Problem Statement: 
+// Given a string S of opening and closing brackets '(' and ')' only. The task is to find an equal 
+// point. An equal point is an index such that the number of closing brackets on right from that 
+// point must be equal to number of opening brackets before that point.
 
-Solution:
+// Solution:
 
 int findIndex(string str) {
 

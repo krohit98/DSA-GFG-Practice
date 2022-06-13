@@ -1,9 +1,11 @@
-Link: https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1
+// Link: https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1
 
-Problem Statement: 
-Given an unsorted array Arr of N positive and negative numbers. Your task is to create an array of alternate positive and negative numbers without changing the relative order of positive and negative numbers.
+// Problem Statement: 
+// Given an unsorted array Arr of N positive and negative numbers. Your task is to create an 
+// array of alternate positive and negative numbers without changing the relative order of 
+// positive and negative numbers.
 
-Solution:
+// Solution:
 
 void rearrange(int arr[], int n) {
 	
