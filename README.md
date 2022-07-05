@@ -1,7 +1,7 @@
 This repository contains three folders:
-1. Phase I - Contains solutions to DSA Practice problems of various topics of GFG Practice portal's School, Basic and Easy levels.
-2. Phase II - Contains solutions to DSA Practice problems of various topics of GFG Practice portal's Medium level.
-3. Phase III - Contains solutions to DSA Practice problems of various topics of GFG Practice portal's Hard level.
+1. Phase I - Contains solutions of GFG Practice portal's School, Basic and Easy level DSA practice problems.
+2. Phase II - Contains solutions of GFG Practice portal's Medium level DSA practice problems.
+3. Phase III - Contains solutions of GFG Practice portal's Hard level DSA practice problems.
 
 Note: Solutions will be uploaded in accordance with the progress of my preparation. Solutions will first be uploaded in Phase I folder followed by Phase II and Phase III.
 
